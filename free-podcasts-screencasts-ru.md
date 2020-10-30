@@ -1,33 +1,32 @@
 ### Index
 
-* [Bash](#bash)
-* [C](#c)
-* [Clojure](#clojure)
+* [Android](#android)
+* [Flutter](#flutter)
 * [Golang](#golang)
 * [Gulp](#gulp)
+* [Haskell](#haskell)
 * [Java](#java)
-* [Javascript](#javascript)
+  * [Spring](#spring)
+* [JavaScript](#javascript)
 * [Node.js](#nodejs)
-* [Python](#python)
+* [PHP](#php)
+* [QA](#qa)
 * [React.js](#reactjs)
 * [Ruby](#ruby)
 * [Webpack](#webpack)
-* [Веб-дизайн](#Веб-дизайн)
+* [Информационные технологии и безопасность](#Информационные-технологии-и-безопасность)
+* [Новости и Разработка ПО](#Новости-и-Разработка-ПО)
 
 
-### Bash
+### Android
 
-* [Bash: Основы командной строки](https://ru.hexlet.io/courses/bash) - Hexlet (Screencast)
-
-
-### C
-
-* [Введение в Си](https://ru.hexlet.io/courses/introduction_to_c) - Hexlet (Screencast)
+* [Android Broadcast Podcast](https://soundcloud.com/android_broadcast) (Podcast)
+* [Android Dev](http://apptractor.ru/AndroidDev) (Podcast)
 
 
-### Clojure
+### Flutter
 
-* [Курс Clojure](https://clojurecourse.by) (Screencast)
+* [Flutter Dev Podcast](https://soundcloud.com/flutterdevpodcast) (Podcast)
 
 
 ### Golang
@@ -40,19 +39,31 @@
 * [Скринкаст по Gulp](http://learn.javascript.ru/screencast/gulp) - Илья Кантор (Screencast)
 
 
+### Haskell
+
+* [Бананы и Линзы](https://bananasandlenses.net)
+
+
 ### Java
 
-* [Java. Базовый курс](https://stepic.org/course/Java-%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BA%D1%83%D1%80%D1%81-187) - Stepic (Screencast)
-* [Введение в программирование на языке Java и с Java EE](https://www.youtube.com/playlist?list=PLkKunJj_bZefB1_hhS68092rbF4HFtKjW)  -Yakov Fain (Screencast)
+* [Плейлист видео по Java для новичков](https://www.youtube.com/playlist?list=PLAma_mKffTOSUkXp26rgdnC0PicnmnDak)
 
 
-### Javascript
+#### Spring
+
+* [Плейлист видео по Spring framework](https://www.youtube.com/playlist?list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ)
+
+
+### JavaScript
 
 * [Devschacht](https://soundcloud.com/devschacht) (Podcast)
 * [Frontflip](http://frontflip.me) (Podcast)
-* [Javascript для начинающих](http://www.magisters.org/education/course/js-for-beginners) (Screencast)
+* [JavaScript для начинающих](http://www.magisters.org/education/course/js-for-beginners) (Screencast)
 * [RadioJS](http://radiojs.ru) (Podcast)
+* [UnderJS podcast](https://underjs.ru) (Podcast)
 * [Webstandards](https://soundcloud.com/web-standards) (Podcast)
+* [Фронтенд юность](https://soundcloud.com/frontend_u) (Podcast)
+* [CSSSR](https://soundcloud.com/csssr) (Podcast)
 
 
 ### Node.js
@@ -60,14 +71,21 @@
 * [Скринкаст Node.JS](https://learn.javascript.ru/screencast/nodejs) - Илья Кантор (Screencast)
 
 
-### Python
+### PHP
 
-* [Программирование на Python](https://stepic.org/course/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B0-Python-67) - Stepic (Screencast)
+* [Пятиминутка PHP](http://5minphp.ru) (Podcast)
+
+
+### QA
+
+* [QAGuild](https://automation-remarks.com/tags/QAGuild.html) (Podcast)
+* [Подкаст тестировщиков](http://radio-qa.com) (Podcast)
 
 
 ### React.js
 
 * [Основы React.js](http://learn.javascript.ru/screencast/react) - Роман Якобчук (Screencast)
+* [Пятиминутка React](http://5minreact.ru) (Podcast)
 
 
 ### Ruby
@@ -77,11 +95,37 @@
 * [RWPod Podcast](http://rwpod.com) (Podcast)
 
 
+### Scala
+
+* [Русскоязычный подкаст о Scala](https://scalalaz.ru) (Podcast)
+
+
 ### Webpack
 
 * [Скринкаст Webpack](https://learn.javascript.ru/screencast/webpack) - Илья Кантор (Screencast)
 
 
-### Веб-дизайн
+### Информационные технологии и безопасность
 
-* [Подкасты про IT и web разработку](https://uwebdesign.ru) (Podcast)
+* [LinkMeUp](http://linkmeup.ru) (Podcast)
+* [Noise Security Bit](https://noisebit.podster.fm) (Podcast)
+* [uWebDesign](https://uwebdesign.ru) (Podcast)
+* [Квант безопасности](https://soundcloud.com/nikita-remezov) (Podcast)
+
+
+### Новости и Разработка ПО
+
+* [CTOcast](http://ctocast.com) (Podcast)
+* [DevZen Podcast](https://devzen.ru) (Podcast)
+* [Frontend Weekend](https://podcasts.apple.com/podcast/id1233996390)
+* [Mobile People Talks](https://soundcloud.com/mobilepeopletalks) (Podcast)
+* [Podlodka](https://podlodka.io) (Podcast)
+* [Software Development podCAST](https://sdcast.ksdaemon.ru) (Podcast)
+* [The Art Of Programming](https://theartofprogramming.podbean.com) (Podcast)
+* [Две Столицы - Уютный подкаст IT панков](http://www.2capitals.space) (Podcast)
+* [Как делают игры](https://kdicast.com) (Podcast)
+* [Новый подкаст (2)_после правок.final.doc](https://newpodcast2.live) (Podcast)
+* [Радио-Т](https://radio-t.com) (Podcast)
+* [Разбор полётов](http://razbor-poletov.com) (Podcast)
+* [Развлекательный IT подкаст](http://radioma.org) (Podcast)
+* [Слава + Паша](https://it.asm0dey.ru) (Podcast)
